@@ -1,5 +1,11 @@
 # ai
 
+## 2.1.0
+
+### Minor Changes
+
+- 71f9c51: This adds Vue support for `ai` via the `ai/vue` subpath export. Vue composables `useChat` and `useCompletion` are provided.
+
 ## 2.0.1
 
 ### Patch Changes
